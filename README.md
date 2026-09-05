@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kavi Sharma</h1>
+<h3 align="center">Full-Stack Developer | MERN & TypeScript | Building things that ship</h3>
 
-<!--
-**Kavi-Sharma08/Kavi-Sharma08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kavi-Sharma08&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
+  <a href="https://github.com/Kavi-Sharma08?tab=followers"><img src="https://img.shields.io/github/followers/Kavi-Sharma08?label=Followers&style=flat&color=blue" alt="followers" /></a>
+</p>
 
-Here are some ideas to get you started:
+```js
+const kavi = {
+  role       : "Full-Stack Developer",
+  location   : "India",
+  stack      : ["React", "Node.js", "Express", "TypeScript", "MongoDB"],
+  currently  : ["ClinicFlow — clinic management app", "BagsPackGo — travel/event booking platform"],
+  interests  : ["Backend architecture", "Competitive programming", "AI-assisted dev workflows"],
+  motto      : "Ship fast, learn faster.",
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,git,github,cpp,python" alt="tech stack icons" />
+</p>
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **ClinicFlow** | Full-stack clinic management application | MERN |
+| **BagsPackGo** | Travel & event booking platform | MERN |
+| **Rent-Project** | Rental listings web app | TypeScript |
+| **Chatbot-Groq** | AI chatbot powered by Groq | JavaScript |
+| **Striver_45_Days_Summer_Challenge** | DSA practice — 45-day challenge | C++ |
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kavi-Sharma08&show_icons=true&theme=tokyonight&hide_border=true" alt="Kavi's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavi-Sharma08&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavi-Sharma08&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</p>
+
+### 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center"><i>"The best code is the code that ships."</i></p>
