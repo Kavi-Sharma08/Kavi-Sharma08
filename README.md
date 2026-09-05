@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kavi Sharma</h1>
+<h1 align="center">Hi 👋, I'm Kavi</h1>
 <h3 align="center">Full-Stack Developer | MERN & TypeScript | Building things that ship</h3>
 
 <p align="center">
