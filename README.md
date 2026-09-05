@@ -21,7 +21,7 @@ const kavi = {
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,git,github,cpp,python" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,cpp,python" alt="tech stack icons" />
 </p>
 
 ### 🚀 Featured Projects
